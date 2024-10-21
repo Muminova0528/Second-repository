@@ -1,0 +1,2 @@
+# shoqosim
+qutpiddin
